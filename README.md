@@ -12,6 +12,8 @@
 
 </figcaption>
 
+</figure>
+
 No, they aren't scary. They're rather nice.
 
 ## In chronological order
