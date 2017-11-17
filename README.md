@@ -42,6 +42,7 @@ No, they aren't scary. They're rather nice.
 
 - All entries in the list are upscaled. [See the downscaled ones](bonus/downscales).
 - For entry No. 5 [Tokkuri](the-entries/005.png): The [server](bonus/005-server.png) and [cup](bonus/005-cup.png).
+- For entry No. 9 [Star](the-entries/009.png): The [star](bonus/009-star.png).
 
 ## License
 
