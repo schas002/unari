@@ -2,17 +2,13 @@
 
 > Pixel-art ghosts.
 
-<figure>
+* * *
 
 [![A house of pixel-art ghosts!](the-entries/008.png)](the-entries/008.png)
 
-<figcaption>
-
 *Entry No. 8 '[House](the-entries/008.png)'*
 
-</figcaption>
-
-</figure>
+* * *
 
 No, they aren't scary. They're rather nice.
 
