@@ -29,6 +29,7 @@ No, they aren't scary. They're rather nice.
 7. [ASCII](the-entries/007.png), 2017-11-09
 8. [House](the-entries/008.png), 2017-11-09
 9. [Star](the-entries/009.png), 2017-11-17
+10. [Desktop](the-entries/010.png), 2017-12-24
 
 <a id="end-of-list">
 
@@ -38,7 +39,7 @@ No, they aren't scary. They're rather nice.
 
 ## Bonus content
 
-- All entries in the list are upscaled. [See the downscaled ones](bonus/downscales).
+- Most entries in the list are upscaled. [See the downscales of those which were](bonus/downscales).
 - For entry No. 5 [Tokkuri](the-entries/005.png): The [server](bonus/005-server.png) and [cup](bonus/005-cup.png).
 - For entry No. 9 [Star](the-entries/009.png): The [star](bonus/009-star.png).
 
