@@ -4,13 +4,11 @@
 
 * * *
 
-[![A house of pixel-art ghosts!](the-entries/008.png)](the-entries/008.png)
+[![It's nice.](the-entries/012.png)](the-entries/012.png "It's nice.")
 
-*Entry No. 8 '[House](the-entries/008.png)'*
+*Entry No. 12 '[Portable Network Ghost](the-entries/012.png)'*
 
 * * *
-
-No, they aren't scary. They're rather nice.
 
 ## In chronological order
 
@@ -20,23 +18,26 @@ No, they aren't scary. They're rather nice.
 
 </a>
 
+- :star: emojos below signify entries I recommend. A nice guide. :>
+- :house: emojos signify entries that are, or were header images.
+
 * * *
 
-1. [Original](the-entries/001.png), 2017-10-24
+1. [Original](the-entries/001.png), 2017-10-24 :star:
 2. [Asleep](the-entries/002.png), 2017-10-24
 3. [Tea](the-entries/003.png), 2017-10-25
-4. [Thinking](the-entries/004.png), 2017-10-26
+4. [Thinking](the-entries/004.png), 2017-10-26 :star:
 5. [Tokkuri](the-entries/005.png), 2017-10-31
-6. [Online](the-entries/006.gif), 2017-11-01
+6. [Online](the-entries/006.gif), 2017-11-01 :star:
 7. [ASCII](the-entries/007.png), 2017-11-09
-8. [House](the-entries/008.png), 2017-11-09
+8. [House](the-entries/008.png), 2017-11-09 :star: :house:
 9. [Star](the-entries/009.png), 2017-11-17
 10. [Desktop](the-entries/010.gif), 2017-12-14
 
 * * *
 
-11. [Scalable Vector Ghost](the-entries/011.svg), 2017-12-18
-12. [Portable Network Ghost](the-entries/012.png), 2017-12-18
+11. [Scalable Vector Ghost](the-entries/011.svg), 2017-12-18 :star:
+12. [Portable Network Ghost](the-entries/012.png), 2017-12-18 :house:
 13. [Ghost Interchange Format](the-entries/013.gif), 2017-12-18
 
 * * *
