@@ -1,0 +1,11 @@
+<svg width="256" height="256" xmlns="http://www.w3.org/2000/svg">
+ <g id="unari">
+  <title>Scalable Vector Ghost</title>
+  <path d="M25 256 S32 0 128 0 Q224 0 234 256 L192 224 L168 256 L120 216 L80 256 L56 224 Z" fill="#fafbfc" stroke="#101102"/>
+  <circle cx="100" cy="100" r="4" fill="#101102"/>
+  <circle cx="150" cy="100" r="4" fill="#101102"/>
+  <path d="M110 150 S110 160 125 160 Q140 160 140 150" fill="transparent" stroke="#101102"/>
+  <path d="M60 160 S80 160 80 170 S80 180 60 180" fill="transparent" stroke="#101102"/>
+  <path d="M200 160 S180 160 180 170 S180 180 200 180" fill="transparent" stroke="#101102"/>
+ </g>
+</svg>

@@ -20,6 +20,8 @@ No, they aren't scary. They're rather nice.
 
 </a>
 
+* * *
+
 1. [Original](the-entries/001.png), 2017-10-24
 2. [Asleep](the-entries/002.png), 2017-10-24
 3. [Tea](the-entries/003.png), 2017-10-25
@@ -29,7 +31,15 @@ No, they aren't scary. They're rather nice.
 7. [ASCII](the-entries/007.png), 2017-11-09
 8. [House](the-entries/008.png), 2017-11-09
 9. [Star](the-entries/009.png), 2017-11-17
-10. [Desktop](the-entries/010.gif), 2017-12-24
+10. [Desktop](the-entries/010.gif), 2017-12-14
+
+* * *
+
+11. [Scalable Vector Ghost](the-entries/011.svg), 2017-12-18
+12. [Portable Network Ghost](the-entries/012.png), 2017-12-18
+13. [Ghost Interchange Format](the-entries/013.gif), 2017-12-18
+
+* * *
 
 <a id="end-of-list">
 
