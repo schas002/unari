@@ -20,6 +20,7 @@
 
 - :star: emojos below signify entries I recommend. A nice guide. :>
 - :house: emojos signify entries that are, or were header images.
+- :pencil2: emojos signify entries that are minor changes of other entries (with numbers).
 
 * * *
 
@@ -37,8 +38,10 @@
 * * *
 
 11. [Scalable Vector Ghost](the-entries/011.svg), 2017-12-18 :star:
-12. [Portable Network Ghost](the-entries/012.png), 2017-12-18 :house:
-13. [Ghost Interchange Format](the-entries/013.gif), 2017-12-18
+12. [Portable Network Ghost](the-entries/012.png), 2017-12-18 :house: :pencil2: 11
+13. [Ghost Interchange Format](the-entries/013.gif), 2017-12-18 :pencil2: 11
+14. [Portable Network Ghost 2](the-entries/014.png), 2017-12-23 :pencil2: 12
+15. [Ghost Interchange Format 2](the-entries/015.gif), 2017-12-23 :pencil2: 13
 
 * * *
 
