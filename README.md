@@ -42,6 +42,7 @@
 13. [Ghost Interchange Format](the-entries/013.gif), 2017-12-18 :pencil2: 11
 14. [Portable Network Ghost 2](the-entries/014.png), 2017-12-23 :pencil2: 12
 15. [Ghost Interchange Format 2](the-entries/015.gif), 2017-12-23 :pencil2: 13
+16. [Very Long](the-entries/016.png), 2017-12-24
 
 * * *
 
