@@ -6,7 +6,7 @@ They are rather nice :>
 
 * * *
 
-[![*shuff shuff shuff*](the-entries/017.png)](the-entries/012.png "*shuff shuff shuff*")
+[![*shuff shuff shuff*](the-entries/017.png)](the-entries/017.png "*shuff shuff shuff*")
 
 *Entry No. 17 '[Unarimochi](the-entries/017.png)'*
 
