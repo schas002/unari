@@ -2,11 +2,13 @@
 
 > Pixel-art ghosts.
 
+They are rather nice :>
+
 * * *
 
-[![It's nice.](the-entries/012.png)](the-entries/012.png "It's nice.")
+[![*shuff shuff shuff*](the-entries/017.png)](the-entries/012.png "*shuff shuff shuff*")
 
-*Entry No. 12 '[Portable Network Ghost](the-entries/012.png)'*
+*Entry No. 17 '[Unarimochi](the-entries/017.png)'*
 
 * * *
 
@@ -43,6 +45,7 @@
 14. [Portable Network Ghost 2](the-entries/014.png), 2017-12-23 :pencil2: 12
 15. [Ghost Interchange Format 2](the-entries/015.gif), 2017-12-23 :pencil2: 13
 16. [Very Long](the-entries/016.png), 2017-12-24
+17. [Unarimochi](the-entries/017.png), 2018-01-01 :star: :house:
 
 * * *
 
