@@ -6,9 +6,9 @@ They are rather nice :>
 
 * * *
 
-[![*shuff shuff shuff*](the-entries/017.png)](the-entries/017.png "*shuff shuff shuff*")
+[![*shuff shuff shuff*](the-entries/018.png)](the-entries/018.png "*shuff shuff shuff*")
 
-*Entry No. 17 '[Unarimochi](the-entries/017.png)'*
+*Entry No. 18 '[Starry Hat](the-entries/018.png)'*
 
 * * *
 
@@ -46,6 +46,7 @@ They are rather nice :>
 15. [Ghost Interchange Format 2](the-entries/015.gif), 2017-12-23 :pencil2: 13
 16. [Very Long](the-entries/016.png), 2017-12-24
 17. [Unarimochi](the-entries/017.png), 2018-01-01 :star: :house:
+18. [Starry Hat](the-entries/018.png), 2018-02-01 :house:
 
 * * *
 
