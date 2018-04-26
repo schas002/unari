@@ -52,6 +52,18 @@
 - For entry No. 5 [Tokkuri](the-entries/005.png): The [server](bonus/005-server.png) and the [cup](bonus/005-cup.png).
 - For entry No. 9 [Star](the-entries/009.png): The [star](bonus/009-star.png).
 
+## Maintainer
+
+- Andrew Zyabin - @schas002 - <https://schas002.github.io>
+
+## Contribute
+
+I'm eagerly awaiting new unari. There's been a shortage of them, and I'd like to encourage diversity. :-)
+
+Every contributor to unari is to follow our code of conduct, which is: don't be rude.
+
+[Link to GitHub](https://github.com/schas002/unari), if you're coming from the GitHub Pages page.
+
 ## License
 
 *<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.*
