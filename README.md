@@ -6,9 +6,9 @@ They are rather nice :>
 
 * * *
 
-[![*shuff shuff shuff*](the-entries/018.png)](the-entries/018.png "*shuff shuff shuff*")
+[![An unari hovering over a rectangle.](the-entries/019.png)](the-entries/019.png "An unari hovering over a rectangle.")
 
-*Entry No. 18 '[Starry Hat](the-entries/018.png)'*
+*Entry No. 19 '[ASU-1: Avatar Sized Unari 1](the-entries/019.png)'*
 
 * * *
 
@@ -47,6 +47,8 @@ They are rather nice :>
 16. [Very Long](the-entries/016.png), 2017-12-24
 17. [Unarimochi](the-entries/017.png), 2018-01-01 :star: :house:
 18. [Starry Hat](the-entries/018.png), 2018-02-01 :house:
+19. [ASU-1: Avatar Sized Unari 1](the-entries/019.png), 2018-04-26 :house:
+20. [ASU-1 Thinking](the-entries/020.png), 2018-04-26
 
 * * *
 
