@@ -2,8 +2,6 @@
 
 > Pixel-art ghosts.
 
-They are rather nice :>
-
 * * *
 
 [![An unari hovering over a rectangle.](the-entries/019.png)](the-entries/019.png "An unari hovering over a rectangle.")
