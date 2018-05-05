@@ -13,7 +13,7 @@
 ## In chronological order
 
 - :house: signifies entries that are, or were, header images.
-- :pencil2: signifies entries that are minor changes of other entries (with numbers).
+- :pencil2: signifies entries that are minor changes of other entries. (The changed entries' numbers are also noted).
 
 ###### Start of list
 
