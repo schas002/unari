@@ -51,6 +51,7 @@
 - [Some entries in the list are upscaled from smaller versions](bonus/downscales).
 - For entry No. 5 [Tokkuri](the-entries/005.png): The [server](bonus/005-server.png) and the [cup](bonus/005-cup.png).
 - For entry No. 9 [Star](the-entries/009.png): The [star](bonus/009-star.png).
+- For entry No. 19 [ASU-1](the-entries/019.png): The [Avatar Sized Unari](bonus/019-unari.png) themself.
 
 ## Maintainer
 
