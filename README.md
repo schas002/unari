@@ -39,6 +39,7 @@
 18. [Starry Hat](the-entries/018.png), 2018-02-01 :house:
 19. [ASU-1: Avatar Sized Unari 1](the-entries/019.png), 2018-04-26 :house:
 20. [ASU-1 Thinking](the-entries/020.png), 2018-04-26
+21. [Cameri](the-entries/021.png), 2018-05-05
 
 ###### End of list
 
